@@ -1,0 +1,14 @@
+.search-bar{
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.search-bar form > label{
+    margin-bottom: 3px;
+}
